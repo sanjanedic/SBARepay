@@ -3,7 +3,7 @@ Insight Data Science Project (Fall 2017, NYC)
 For more details, see www.sanjanedic.com.
 
 Demo slides:
-{google_docs}"https://docs.google.com/presentation/d/e/2PACX-1vRmD-pMYs3UcYK4xRECwZPEwd_FxrltP0PzuC2GjNgPNMVXBuXfeJwp1VC95Uww5zo8eZEZ4pI4a33u/embed?start=false&loop=false&delayms=60000"{/google_docs}
+{google_docs}"https://docs.google.com/presentation/d/e/2PACX-1vRmD-pMYs3UcYK4xRECwZPEwd_FxrltP0PzuC2GjNgPNMVXBuXfeJwp1VC95Uww5zo8eZEZ4pI4a33u/embed?start=false&loop=false&delayms=60000" {/google_docs}
 
 
 Contains analysis of data from SBA's 7a loan report (loan-level data for ~1.44 million loans) in conjuction with macroeconomic indicators (S&P 1500 index). Random Forest Classifier is trained to predict whether a loan will be paid in full or default, and most important features are determined.
