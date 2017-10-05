@@ -1,11 +1,12 @@
 # SBA Repay
-Insight Data Science Project (Fall 2017, NYC)
-For more details, see www.sanjanedic.com
+Insight Data Science Project (Fall 2017, NYC).
 
-Contains analysis of data from SBA's 7a loan report (loan-level data for ~1.44 million loans) in conjuction with macroeconomic indicators (S&P 1500 index). Random Forest Classifier is trained to predict whether a loan will be paid in full or default, and most important features are determined.
+For more details, see www.sanjanedic.com.
+
+Contains analysis of data from SBA's 7a loan report (loan-level data for ~1.44 million loans) in conjuction with macroeconomic indicators (S&P 1500 index). A Random Forest Classifier is trained to predict whether a loan will be paid in full or default, and most important features are determined.
 
 * Exploratory data analysis and data cleaning - SBARepayEDA notebook
-* Model training and testing - SBARepayML notebook
+* Model training, validation, and testing - SBARepayML notebook
 
 Links to data:
 
