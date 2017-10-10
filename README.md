@@ -1,5 +1,6 @@
 # SBA Repay
 Sanja Nedic
+
 Insight Data Science (Fall 2017, New York). 
 
 This project was completed during three weeks of Insight Data Science Fellowship.
